@@ -1,4 +1,4 @@
-FROM openjdk:8-slim
+FROM openjdk:11-slim
 
 ENV FIRESTORE_EMULATOR_VERSION=1.19.1
 
